@@ -79,7 +79,7 @@ integration dependencies.
 
 ## 5. Logical Interface Register
 
-The following register documents 15 subsystem
+The following register documents 16 subsystem
 connections visible in the original logical IBD.
 
 The interface IDs and potential exchanged items
